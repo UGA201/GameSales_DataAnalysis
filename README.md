@@ -2,6 +2,7 @@
 - 비디오게임 판매 데이터를 분석하여 어떤 게임을 신규 출시할지 생각해보는 프로젝트입니다.
 - 코드 및 자세한 내용은 **Project_1.ipynb** 파일을 참고해주세요!
 
+
 ![](https://images.velog.io/images/hability24/post/8ac65da3-1bcc-409d-b2c1-2e2e200f09e8/image.png)
 
 ![](https://images.velog.io/images/hability24/post/fca9a493-1b37-4a5c-b4d1-51dc7cbd9612/image.png)
